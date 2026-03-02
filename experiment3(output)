@@ -1,0 +1,22 @@
+Enter number of names: 4
+Enter names:
+padmini
+priya
+nandini
+geetha
+
+Names list:
+1. padmini
+2. priya
+3. nandini
+4. geetha
+Enter number of colors: 4
+Enter number of constraints: 2
+Enter constraint pairs (numbers):
+1 2
+3 2
+One possible solution:
+padmini -> Color 1
+priya -> Color 2
+nandini -> Color 1
+geetha -> Color 1
