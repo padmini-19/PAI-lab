@@ -1,4 +1,6 @@
 Enter capacity of first jug: 4
 Enter capacity of second jug: 3
 Enter goal amount: 2
-Solution path: { (0,0), (4,0), (4,3), (0,3), (3,0), (3,3), (4,2)}
+Solution path: { 
+(0,0), (4,0), (4,3), (0,3), (3,0), (3,3), (4,2)
+}
