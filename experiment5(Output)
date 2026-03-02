@@ -1,0 +1,34 @@
+TIC TAC TOE
+You are X, AI is O
+
+  |   |  
+--+---+--
+  |   |  
+--+---+--
+  |   |  
+
+Enter position (1-9): 1
+
+X |   |  
+--+---+--
+  | O |  
+--+---+--
+  |   |  
+
+Enter position (1-9): 2
+
+X | X | O
+--+---+--
+  | O |  
+--+---+--
+  |   |  
+
+Enter position (1-9): 4
+
+X | X | O
+--+---+--
+X | O |  
+--+---+--
+O |   |  
+
+AI wins!
